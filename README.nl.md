@@ -1,3 +1,5 @@
+[English](README.md)
+
 # Agentic Model – Releases
 
 Deze repository publiceert de releasefeed voor installaties van Agentic Model. Er staat geen broncode in.
