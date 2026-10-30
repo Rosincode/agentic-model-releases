@@ -1,3 +1,5 @@
+[Nederlands](README.nl.md)
+
 # Agentic Model – Releases
 
 This repository publishes the release feed for Agentic Model installations. It contains no source code.
